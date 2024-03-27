@@ -1,3 +1,5 @@
-﻿  ManagementSystem.cpp
+﻿  Function.cpp
+  ManagementSystem.cpp
 C:\project3\CS162Project\ManagementSystem\ManagementSystem\ManagementSystem.cpp(8,2): warning C4551: function call missing argument list
+  Generating Code...
   ManagementSystem.vcxproj -> C:\project3\CS162Project\ManagementSystem\x64\Debug\ManagementSystem.exe
